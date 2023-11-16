@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @moh0mmad
+- 👀 I’m interested in Electric cars, BMS, dATA mining 
+- 🌱 I’m currently learning c#, c++, JavaScript, Kotlin
+- 💞️ I’m looking to collaborate on Gama signals projects 
+- 📫 How to reach me ...
